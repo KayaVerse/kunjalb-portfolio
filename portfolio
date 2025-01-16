@@ -17,7 +17,7 @@
             </ul>
         </nav>
         <div class="intro">
-            <h1>Hi, I'm KunjalB</h1>
+            <h1>Hi, I'm Kunjal Baseshankar</h1>
             <p>Computer Science Student | Innovator | Tech Enthusiast</p>
         </div>
     </header>
@@ -34,6 +34,7 @@
         <div class="project">
             <h3>KL-eats</h3>
             <p>A food delivery web app designed for campus use, enabling students and faculty to pre-order meals efficiently.</p>
+            <p>Link: <a href="https://kleats.in/">kleats.in</a></p>
         </div>
         <div class="project">
             <h3>Real-Time Collaboration Platform</h3>
@@ -50,16 +51,15 @@
         <ul>
             <li>Programming Languages: Python, JavaScript, C++</li>
             <li>Web Development: HTML, CSS, React, Node.js</li>
-            <li>Tools: Git, Figma, Canva</li>
+            <li>Tools: Git, Figma, Canva, Penpot</li>
             <li>Soft Skills: Leadership, Collaboration, Public Speaking</li>
         </ul>
     </section>
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:kunjalb@example.com">kunjalb@example.com</a></p>
-        <p>GitHub: <a href="https://github.com/KayaVerse" target="_blank">github.com/KayaVerse</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/kunjalb" target="_blank">linkedin.com/in/kunjalb</a></p>
+        <p>Email: <a href="mailto:kunjalb882@gmail.com">kunjalb882@gmail.com</a></p>
+        <p>Phone No.: <a href="9022895615" target="_blank">9022895615</a></p>
     </section>
 
     <footer>
