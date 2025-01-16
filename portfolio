@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KunjalB Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="intro">
+            <h1>Hi, I'm KunjalB</h1>
+            <p>Computer Science Student | Innovator | Tech Enthusiast</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a passionate Computer Science student with a knack for solving real-world problems through technology. From leading teams to developing innovative solutions, my journey reflects dedication and creativity.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>KL-eats</h3>
+            <p>A food delivery web app designed for campus use, enabling students and faculty to pre-order meals efficiently.</p>
+        </div>
+        <div class="project">
+            <h3>Real-Time Collaboration Platform</h3>
+            <p>A web app allowing developers to collaborate on code seamlessly, improving productivity and teamwork.</p>
+        </div>
+        <div class="project">
+            <h3>Vacuum Cleaner Agent</h3>
+            <p>An AI agent designed to clean grid-based environments efficiently using intelligent algorithms.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: Python, JavaScript, C++</li>
+            <li>Web Development: HTML, CSS, React, Node.js</li>
+            <li>Tools: Git, Figma, Canva</li>
+            <li>Soft Skills: Leadership, Collaboration, Public Speaking</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:kunjalb@example.com">kunjalb@example.com</a></p>
+        <p>GitHub: <a href="https://github.com/KayaVerse" target="_blank">github.com/KayaVerse</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/kunjalb" target="_blank">linkedin.com/in/kunjalb</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 KunjalB. All rights reserved.</p>
+    </footer>
+</body>
+</html>
